@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customWmsMapSource>
+  <name>USGS AA Topo WMS</name>
+  <minZoom>0</minZoom>
+  <maxZoom>22</maxZoom>            <!-- adjust max zoom as allowed by the service -->
+  <tileType>PNG</tileType>          <!-- or JPG if the service returns JPEG -->
+  <version>1.3.0</version>          <!-- or 1.1.1 depending on server support -->
+  <layers>0</layers>                <!-- you’ll need the actual layer name if required -->
+  <url>https://basemap.nationalmap.gov/arcgis/services/USGSTopo/MapServer/WMSServer?</url>
+  <coordinatesystem>EPSG:4326</coordinatesystem>  <!-- or EPSG:3857 if supported -->
+  <aditionalparameters><![CDATA[&STYLES=default]]></aditionalparameters>
+  <backgroundColor>#000000</backgroundColor>
+</customWmsMapSource>
