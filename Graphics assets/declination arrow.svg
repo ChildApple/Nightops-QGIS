@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="73.747345"
+   height="98.636108"
+   viewBox="0 0 73.747345 98.636108"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,-271.8989,783.59052)">
+    <path
+       d="m 232.032,581.47501 c 0,0 0.894,-5.965 1.789,-6.248 l -1.827,0.916 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path904" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.03489968,0.99939082,0.99939082,-0.03489968,0,0)"
+       style="font-variant:normal;font-weight:normal;font-size:4.00004px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text908"
+       x="538.41852"
+       y="216.01717"><tspan
+         x="538.41852 541.95013 544.81781 548.12939 551.21704 554.08466 556.72827 558.03992 561.1275 563.75073 566.83838 570.15002 573.23761 575.88129"
+         y="216.01717"
+         id="tspan906">MAGNETIC NORTH</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.9999586,0.00909932,0.00909932,-0.9999586,0,0)"
+       style="font-variant:normal;font-weight:normal;font-size:6.00045px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text912"
+       x="234.58733"
+       y="-581.24225"><tspan
+         x="234.58733"
+         y="-581.24225"
+         id="tspan910">2</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.9999586,0.00909932,0.00909932,-0.9999586,0,0)"
+       style="font-variant:normal;font-weight:normal;font-size:6.00045px;font-family:Symbol;-inkscape-font-specification:Symbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text916"
+       x="237.92357"
+       y="-581.24225"><tspan
+         x="237.92357"
+         y="-581.24225"
+         id="tspan914">°</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(1,-1)"
+       style="font-variant:normal;font-weight:normal;font-size:5px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text922"
+       x="203.9315"
+       y="-520.42383"><tspan
+         x="203.9315 207.517 211.10249 214.688 218.54849 222.689 226.27451 227.91499 232.33051 235.916 239.2215 242.80701 244.44749 248.86301 252.4485 256.034"
+         y="-520.42383"
+         id="tspan918">APPROXIMATE MEAN</tspan><tspan
+         x="206.0265 209.88699 213.4725 217.33299 220.36349 222.004 225.8645 229.45 232.75549 234.396 238.5365 242.397 244.03751 245.67799"
+         y="-514.42383"
+         id="tspan920">DECLINATION, 2025</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,1,1,0,0,0)"
+       style="font-variant:normal;font-weight:normal;font-size:4px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text926"
+       x="536.13641"
+       y="228.5054"><tspan
+         x="536.13641 538.78003 541.86761 544.95526 547.82281 550.44604 553.53363 556.84521 559.93286 562.57642"
+         y="228.5054"
+         id="tspan924">TRUE NORTH</tspan></text>
+    <path
+       d="m 230.144,576.46301 -2.065,-1.372 c 0.904,0.257 1.973,6.191 1.973,6.191 0,0 0.913,-5.939 1.804,-6.238 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path928" />
+    <path
+       d="m 230.13,577.37301 v -51.208"
+       style="fill:none;stroke:#000000;stroke-width:0.432;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path930" />
+    <path
+       d="m 231.444,581.55001 c 0,-0.216 -0.176,-0.39 -0.391,-0.39 -0.215,0 -0.388,0.174 -0.388,0.39 0,0.216 0.173,0.389 0.388,0.389 0.215,0 0.391,-0.173 0.391,-0.389"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path1984" />
+  </g>
+</svg>
